@@ -89,7 +89,7 @@ client.on('ready', () => {
   client.user.setPresence({
     status: 'online', 
     activities: [{
-      name: 'mc.cuberaze.com',
+      name: 'mc.hytacraft.com',
       type: 4 
     }]
   });
